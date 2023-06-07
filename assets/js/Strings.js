@@ -88,8 +88,6 @@ console.log(Caracteres.substring(1,5));
 
 // repeat
 
-
-
 // funcion que devuelva un string con el primer caracter en mayuscula del string ingresado por parametro
 
 // Escribir una funcion de spam que devuelva verdadero si el string que se ingresa como parametro contiene la palabra Viagra o XXX, de cualquier convinacion de mayusculas y minusculas
